@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 - 🔭 Atualmente estou atualmente trabalhando em evoluir meu portfolio
-- 🌱 Atualmente estou estudando python,javascript e HTML5
-- 🤔 Procuro ajuda em como evoluir em POO
+- 🌱 Atualmente estou estudando C# e TypeScript
+- 🤔 Procuro ajuda e evolução em Design patterns
 - 💬 Pergunte-me o que quiser sou um livro aberto
 - 📫 Contatos:erick.allan1oliveira@gmail.com
 - ⚡ Curiosidades: Meu robbie é pesquisar e entender sobre a familia das serpentes🐍
